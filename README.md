@@ -3,5 +3,3 @@
 
 ## Skills
 ![](https://skillicons.dev/icons?i=go,python,java,ts,react,docker,terraform,aws,gcp)
-
-![](https://komarev.com/ghpvc/?username=etakahashi78)
